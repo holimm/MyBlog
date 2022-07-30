@@ -1,4 +1,5 @@
 {
+  "homepage": "https://holimblog.vercel.app/",
   "name": "learnreact",
   "version": "0.1.0",
   "proxy": "http://localhost:8080/",
