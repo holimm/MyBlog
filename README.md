@@ -15,5 +15,5 @@ MyBlog is a simple blog where I can post my daily life stories and my views on l
 <li><a href="https://reactjs.org/">ReactJS</a></li>
 <li><a href="https://nodejs.dev/">NodeJS</a></li>
 <li><a href="https://tailwindcss.com/">Tailwind CSS</a></li>
-<li><a href="https://www.mongodb.com/">Tailwind CSS</a></li>
+<li><a href="https://www.mongodb.com/">MongoDB</a></li>
 
